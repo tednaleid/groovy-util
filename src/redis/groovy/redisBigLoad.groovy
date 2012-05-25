@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-@Grab('redis.clients:jedis:2.0.0')
+@Grab('redis.clients:jedis:2.1.0')
  
 import redis.clients.jedis.*
 
